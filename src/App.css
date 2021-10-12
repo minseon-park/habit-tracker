@@ -80,3 +80,11 @@ button {
   font-size: 2rem;
   color:black;
 }
+
+.habits-reset{
+  font-size: 1.5rem;
+  padding: 0.2em 1em;
+  margin-left: 2em;
+  background-color: green;
+  color: white;
+}
